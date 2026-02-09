@@ -3,124 +3,16 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: unexakorea
+      - name: joonggwon kim
         givenName: ''
         familyName: ''
         nameType: Personal
-        nameIdentifiers: &ref_0
-          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
+        nameIdentifiers: []
         contributorType: Researcher
         order: 1
-      - name: unexakorea
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_1
-          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 2
-      - name: unexakorea
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_2
-          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 3
-      - name: unexakorea
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_3
-          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: RegistrationAgency
-        order: 4
-      - name: unexakorea
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_4
-          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: RegistrationAgency
-        order: 5
-      - name: unexakorea
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_5
-          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: RegistrationAgency
-        order: 6
-      - name: unexakorea
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_6
-          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: RegistrationAgency
-        order: 7
-      - name: unexakorea
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_7
-          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: RegistrationAgency
-        order: 8
-      - name: unexakorea
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_8
-          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: RegistrationAgency
-        order: 9
     creators:
-      - name: unexakorea
+      - name: joonggwon kim
         nameType: Personal
-        nameIdentifiers: *ref_0
-      - name: unexakorea
-        nameType: Personal
-        nameIdentifiers: *ref_1
-      - name: unexakorea
-        nameType: Personal
-        nameIdentifiers: *ref_2
-      - name: unexakorea
-        nameType: Personal
-        nameIdentifiers: *ref_3
-      - name: unexakorea
-        nameType: Personal
-        nameIdentifiers: *ref_4
-      - name: unexakorea
-        nameType: Personal
-        nameIdentifiers: *ref_5
-      - name: unexakorea
-        nameType: Personal
-        nameIdentifiers: *ref_6
-      - name: unexakorea
-        nameType: Personal
-        nameIdentifiers: *ref_7
-      - name: unexakorea
-        nameType: Personal
-        nameIdentifiers: *ref_8
     descriptions:
       - description: N/A
         descriptionType: Abstract
