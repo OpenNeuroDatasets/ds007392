@@ -1,0 +1,18 @@
+{
+  "Name": "Telomere Lengthening Technology Landscape Dataset",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "raw",
+  "Authors": [
+    "권우석",
+    "Contributors TBD"
+  ],
+  "License": "CC0",
+  "GeneratedBy": [
+    {
+      "Name": "ChatGPT packaging",
+      "Version": "v4",
+      "Description": "BIDS wrapper for OpenNeuro upload; source documents in sourcedata"
+    }
+  ],
+  "SourceDatasets": []
+}
