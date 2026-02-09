@@ -73,6 +73,16 @@ data:
             schemeUri: https://orcid.org
         contributorType: RegistrationAgency
         order: 7
+      - name: unexakorea
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_7
+          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: RegistrationAgency
+        order: 8
     creators:
       - name: unexakorea
         nameType: Personal
@@ -95,6 +105,9 @@ data:
       - name: unexakorea
         nameType: Personal
         nameIdentifiers: *ref_6
+      - name: unexakorea
+        nameType: Personal
+        nameIdentifiers: *ref_7
     descriptions:
       - description: N/A
         descriptionType: Abstract
