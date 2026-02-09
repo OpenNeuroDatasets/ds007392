@@ -80,6 +80,16 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 8
+      - name: unexakorea
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_7
+          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 9
     creators:
       - name: joonggwon kim
         nameType: Personal
@@ -104,6 +114,9 @@ data:
       - name: unexakorea
         nameType: Personal
         nameIdentifiers: *ref_6
+      - name: unexakorea
+        nameType: Personal
+        nameIdentifiers: *ref_7
     descriptions:
       - description: N/A
         descriptionType: Abstract
