@@ -13,10 +13,23 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 1
+      - name: unexakorea
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0009-0009-7919-1770
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 2
     creators:
       - name: unexakorea
         nameType: Personal
         nameIdentifiers: *ref_0
+      - name: unexakorea
+        nameType: Personal
+        nameIdentifiers: *ref_1
     descriptions:
       - description: N/A
         descriptionType: Abstract
