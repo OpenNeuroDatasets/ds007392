@@ -1,17 +1,17 @@
 {
-  "Name": "Telomere 자료 (비-BIDS 원자료) - OpenNeuro 업로드용 래퍼",
+  "Name": "Telomere Lengthening Technology Landscape Dataset",
   "BIDSVersion": "1.8.0",
   "DatasetType": "raw",
   "Authors": [
     "권우석",
     "Contributors TBD"
   ],
-  "HowToAcknowledge": "If you use these materials, please cite the original source/author.",
   "License": "CC0",
   "GeneratedBy": [
     {
-      "Name": "BIDS wrapper (manual)",
-      "Description": "Packaging non-BIDS source documents in sourcedata for OpenNeuro upload."
+      "Name": "ChatGPT packaging",
+      "Version": "v4",
+      "Description": "BIDS wrapper for OpenNeuro upload; source documents in sourcedata"
     }
   ],
   "SourceDatasets": []
