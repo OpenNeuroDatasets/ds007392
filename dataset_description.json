@@ -1,5 +1,5 @@
 {
-  "Name": "Telomere Lengthening Technology Landscape Dataset",
+  "Name": "Telomere technology landscape dataset",
   "BIDSVersion": "1.8.0",
   "DatasetType": "raw",
   "Authors": [
@@ -9,9 +9,9 @@
   "License": "CC0",
   "GeneratedBy": [
     {
-      "Name": "ChatGPT packaging",
-      "Version": "v4",
-      "Description": "BIDS wrapper for OpenNeuro upload; source documents in sourcedata"
+      "Name": "ChatGPT packaging helper",
+      "Version": "v7",
+      "Description": "BIDS wrapper for hosting non-imaging source documents under sourcedata/ on OpenNeuro."
     }
   ],
   "SourceDatasets": []
