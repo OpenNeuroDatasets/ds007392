@@ -1,0 +1,11 @@
+*.xlsx
+*.xls
+*.csv
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.pdf
+*.zip
+*.rar
+.DS_Store
