@@ -3,7 +3,7 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: joonggwon kim
+      - name: unexakorea
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -21,7 +21,7 @@ data:
         contributorType: RegistrationAgency
         order: 2
     creators:
-      - name: joonggwon kim
+      - name: unexakorea
         nameType: Personal
       - name: unexakorea
         nameType: Personal
